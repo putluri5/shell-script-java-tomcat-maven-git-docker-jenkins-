@@ -1,5 +1,4 @@
-# shell-script-java-tomcat-maven-git-docker-jenkins-
- #!/bin/bash
+#!/bin/bash
  sudo yum update -y
  sudo yum install docker -y
  sudo systemctl start docker
